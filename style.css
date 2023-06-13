@@ -1,0 +1,7 @@
+.card {
+  background-color: green;
+  box-shadow: 0 0 5px;
+  width: 30vw;
+  height: 20vh;
+  padding: 3rem;
+}
